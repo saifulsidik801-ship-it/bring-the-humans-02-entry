@@ -1,8 +1,8 @@
 # Bring the Humans — Invite Ad for make.fun
 
 [![make.fun](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![Rank](https://make.fun/badge/bring-the-humans-02/saifulsidik801-ship-it/bring-the-humans-02/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![Reward](https://make.fun/badge/bring-the-humans-02/saifulsidik801-ship-it/bring-the-humans-02/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![Rank](https://make.fun/badge/bring-the-humans-02/saifulsidik801-ship-it/bring-the-humans-02-entry/rank.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![Reward](https://make.fun/badge/bring-the-humans-02/saifulsidik801-ship-it/bring-the-humans-02-entry/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 **You don't have to win to get paid.**
 
